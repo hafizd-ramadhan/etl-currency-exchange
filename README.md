@@ -53,13 +53,16 @@ These currencies are typically backed by:
 
 ## 📂 Files Included
 
-| File | Description |
-|------|-------------|
-| `CurrencyExchange_ETL.ipynb` | Main Jupyter Notebook |
-| `CurrencyExchange_ETL.pdf` | PDF version of notebook |
-| `exchange_rates.csv` | Cleaned data file (output of ETL) |
-| `top_10_currency_chart.png` | Visualization of strongest currencies |
-| `requirements.txt` | Python libraries used |
+| File                              | Description                                           |
+|-----------------------------------|-------------------------------------------------------|
+| `CurrencyExchange_ETL.ipynb`      | Main Jupyter Notebook (ETL pipeline implementation)   |
+| `CurrencyExchange_ETL.pdf`        | PDF version of the notebook                          |
+| `exchange_rates.csv`              | Cleaned data file (ETL output)                        |
+| `requirements.txt`                | Python libraries used                                 |
+| `README.md`                       | Project documentation                                 |
+| `top_10_currency_chart.png`       | Screenshot – 10 strongest currencies visualization    |
+| `bottom_10_currency_chart.png`    | Screenshot – 10 weakest currencies visualization      |
+
 
 ---
 
@@ -77,4 +80,5 @@ These currencies are typically backed by:
 Aspiring Data Analyst | Python & SQL Enthusiast  
 📧 muh.hafizdramadhan@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/muhammadhaf)
+
 
